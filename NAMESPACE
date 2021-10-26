@@ -1,0 +1,4 @@
+#exportPattern("^[[:alpha:]]+")
+importFrom("stats", "lm", "na.omit", "quantile", "var")
+export(stab.mean,stab.var,stab.fw,stab.fw.check)
+

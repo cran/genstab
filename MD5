@@ -1,0 +1,9 @@
+bf235c65ebe13dd9b08ba08e1598f1fd *DESCRIPTION
+999eb05e89d185661be6de097c087264 *NAMESPACE
+761f8b3f6096a0595183e95535cf1384 *R/stabnew.r
+425b498d9a3bd795f8aabeecb0b33b28 *data/maize.rda
+1c943e62aad650d4d00e3c03107894ac *man/maize.Rd
+790d64850445198a7b9ebecc1bcff56d *man/stab.fw.Rd
+a068f865c78b8f3b1665b5e4f7ece49c *man/stab.fw.check.Rd
+2d0c2c4d4c650248bdf3cb3d0dc4c743 *man/stab.mean.Rd
+ada3bcbaf2dcb796d97d5be1a922dd86 *man/stab.var.Rd
